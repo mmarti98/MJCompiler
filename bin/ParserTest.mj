@@ -1,0 +1,18 @@
+//Testiranje parsera (oporavak od gresaka)
+
+//A: definicija globalne promjenljive
+
+program p
+ 	const int x = 1; 
+    int y;
+    int 1z;
+    int a;
+    int b, -c, d;
+    char e, f, ]g;
+    bool a, flag;
+{
+ 	void main()
+ 	{
+
+ 	}
+}

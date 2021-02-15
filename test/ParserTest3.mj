@@ -1,0 +1,24 @@
+//Testiranje parsera (oporavak od gresaka)
+
+//logicki izraz unutar if konstrukcije
+
+program p
+{
+    void main()
+        int x, y;
+    {
+        x = 0;
+        if (0)
+        {}
+        else if (x)
+        {}
+        if (x >= ) 
+        {}
+        if (>)
+        {}
+        if (y - x)
+        {}
+        if (> && x >= 0) 
+        {}
+    }
+}

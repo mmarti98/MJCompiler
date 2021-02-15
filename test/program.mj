@@ -1,0 +1,13 @@
+program MJProgram
+	{
+	
+	void main() {
+	
+		if (4>=7 && 7>4 || 3>5 && 1>0 || 1>0)
+		{
+		print(3);
+		}
+		
+		print(2);
+	}
+}

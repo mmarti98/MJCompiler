@@ -1,0 +1,40 @@
+program p
+ char c[];
+ int niz[];
+
+{
+	int sum(int z, int d)
+	{
+		return z + d;
+	}
+
+	void main()	
+	int x; bool flag;
+	{
+		niz = new int[3];
+		niz[0] = 1;
+		niz[1] = 2;
+		niz[2] = sum(niz[1], niz[0]) + 1;
+		
+		print(sum (sum(niz[0], niz[1]), niz[2])); 
+
+		x=1;
+		flag= false;
+		print(x);
+		print(1);
+		x++;
+		print(x);
+		x--;
+		print(x);
+		x = (x + 3) * 2; 
+		x= x%3;
+		print(x);
+		print(flag);
+		c = new char[3];
+		c[x] = 'c';
+		print(c[x]);
+	//	read(c[0]);
+	//	print(c[0]);
+	}
+}
+

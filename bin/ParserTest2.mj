@@ -1,0 +1,18 @@
+//Testiranje parsera (oporavak od gresaka)
+
+//A:konstrukcija iskaza dodjele
+
+program P
+    int x;
+    int y;
+{
+	void main (){
+	x++;
+	x = 2 2; 
+ 	x = 5 adfa;  
+ 	x = y +;
+    x = ;
+    x = +;
+    x = + y;
+	}
+}
